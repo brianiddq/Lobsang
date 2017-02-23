@@ -187,3 +187,11 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+# Lobsang project
+Lobsang/bin/
+Lobsang/fonts/
+Lobsang/obj/
+Lobsang/App_Data
+*.ico
+
